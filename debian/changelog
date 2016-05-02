@@ -1,8 +1,8 @@
-karaage-cluster-tools (1.2.4-1) UNRELEASED; urgency=medium
+karaage-cluster-tools (1.2.4-1) unstable; urgency=medium
 
   * New upstream changelog.
 
- -- Brian May <bam@debian.org>  Mon, 02 May 2016 10:24:58 +1000
+ -- Brian May <bam@debian.org>  Mon, 02 May 2016 11:03:24 +1000
 
 karaage-cluster-tools (1.2.3-1) unstable; urgency=medium
 
