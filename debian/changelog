@@ -1,3 +1,9 @@
+karaage-cluster-tools (1.2.4-1) UNRELEASED; urgency=medium
+
+  * New upstream changelog.
+
+ -- Brian May <bam@debian.org>  Mon, 02 May 2016 10:24:58 +1000
+
 karaage-cluster-tools (1.2.3-1) unstable; urgency=medium
 
   * Update/fix RPM packaging.
