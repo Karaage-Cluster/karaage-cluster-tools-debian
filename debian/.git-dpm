@@ -6,3 +6,6 @@ fd5fac9a417138c4b2e701b57c11a49f26c42534
 karaage-cluster-tools_1.2.4.orig.tar.gz
 2a24d29638402e2599761729d4648b99a7e70a7d
 17749
+debianTag="debian/%e%v"
+patchedTag="patched/%e%v"
+upstreamTag="upstream/%e%u"
