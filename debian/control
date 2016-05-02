@@ -2,7 +2,7 @@ Source: karaage-cluster-tools
 Section: python
 Priority: optional
 Maintainer: Brian May <bam@debian.org>
-Build-Depends: debhelper (>=8.1.0), dh-python, python-flake8,
+Build-Depends: debhelper (>=8.1.0), dh-python,
  python3-all, python3-setuptools, python3-alogger, python3-setuptools-scm,
 Standards-Version: 3.9.8
 Homepage: https://github.com/Karaage-Cluster/karaage-cluster-tools
