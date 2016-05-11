@@ -5,8 +5,6 @@ include MANIFEST.in
 include *.rst
 include *.sh
 include *.txt
-exclude karaage-cluster-tools/version.py
-recursive-include packaging *.spec
 recursive-include sbin *
 recursive-include etc *
 recursive-include cron.d *

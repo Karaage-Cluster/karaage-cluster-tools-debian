@@ -19,9 +19,9 @@
 from setuptools import setup, find_packages
 
 setup(
-    name="karaage-cluster-tools",
+    name="karaage_cluster_tools",
     use_scm_version={
-        'write_to': "karaage-cluster-tools/version.py",
+        'write_to': "karaage_cluster_tools/version.py",
     },
     setup_requires=['setuptools_scm'],
     url='https://github.com/Karaage-Cluster/karaage-cluster-tools',
@@ -37,8 +37,9 @@ setup(
         "License :: OSI Approved :: "
             "GNU General Public License v3 or later (GPLv3+)",
         "Operating System :: OS Independent",
-        "Programming Language :: Python :: 2",
-        "Programming Language :: Python :: 3",
+        "Programming Language :: Python :: 2.7",
+        "Programming Language :: Python :: 3.4",
+        "Programming Language :: Python :: 3.5",
         "Topic :: Software Development :: Libraries :: Python Modules",
     ],
     keywords="karaage",
