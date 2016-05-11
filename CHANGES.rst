@@ -1,3 +1,15 @@
+Release 1.2.6 (11 May 2016)
+===========================
+
+* Ensure version.py gets packages.
+
+
+Release 1.2.5 (03 May 2016)
+===========================
+
+* Add --version command line option.
+
+
 Release 1.2.4 (02 Apr 2016)
 ===========================
 
